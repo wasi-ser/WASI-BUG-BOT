@@ -20,24 +20,11 @@
 
 11. termux-setup-storage
 
-12. cd /sdcard
+12 git clone https://github.com/wasi-ser/WASI-BUG-BOT 
 
-13. cd / jaha file ectract ki ha os ki location and enter
+12. cd WASI-BUG-BOT
 
 14. yarn install
 
 15. npm start
 
-than enter num and use 
-
-enjoy this full havvy crash bot 
-
-crash upload byy Musa 😈🔥
-
-dont share without cradit jisny bgar cradit ky share kiya os ki maaaa ki cho*** 
-
-samj ry hoo 🙂 
-
-jino ny bgar cradit ky share kita ya mari copy video bnai to on ki maaa ko waddda sara lan 😈😈🥱 
-
-byy byy
