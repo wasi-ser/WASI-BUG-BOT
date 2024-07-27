@@ -1,4 +1,4 @@
-### deployment video must watch at [click to watch viudeo](https://youtube/@wasitech1)
+### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
 
 
 <p align="center">  
@@ -10,20 +10,23 @@
 <p align="center">
 <a href="https://github.com/wasi-ser"><img title="Author" src="https://img.shields.io/badge/Itxxwasi-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/923192173398"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 
-   
-   
-   ### deployment video must watch at [click to watch viudeo](https://youtube/@wasitech1)
-### deployment video must watch at [click to watch viudeo](https://youtube/@wasitech1)
-### deployment video must watch at [click to watch viudeo](https://youtube/@wasitech1)
-### deployment video must watch at [click to watch viudeo](https://youtube/@wasitech1)
-### deployment video must watch at [click to watch viudeo](https://youtube/@wasitech1)
-### deployment video must watch at [click to watch viudeo](https://youtube/@wasitech1)
-### deployment video must watch at [click to watch viudeo](https://youtube/@wasitech1)
-### deployment video must watch at [click to watch viudeo](https://youtube/@wasitech1)
-### deployment video must watch at [click to watch viudeo](https://youtube/@wasitech1)
-### deployment video must watch at [click to watch viudeo](https://youtube/@wasitech1)
-### deployment video must watch at [click to watch viudeo](https://youtube/@wasitech1)
+   ### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
+### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
+### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
+### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
+### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
+### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
+### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
+### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
+### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
+### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
+### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
+### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
+### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
+### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
 
+   
+   
  MR WASI BUG BOT
 ### this code copy from dj xeon  all credits for him
 
