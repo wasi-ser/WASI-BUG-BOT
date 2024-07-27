@@ -1,11 +1,3 @@
-//base by Musa Rajput
-//re-upload? recode? copy code? give credit ya :)
-//YouTube: none
-//Instagram: ....
-//Telegram: t.me/Musa_x0
-//GitHub: ......
-//WhatsApp: +923347748038
-//want more free bot join my tg chsnnal
 
 const {
    spawn
