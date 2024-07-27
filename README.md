@@ -1,4 +1,30 @@
-MR WASI BUG BOT
+### deployment video must watch at [click to watch viudeo](https://youtube/@wasitech1)
+
+
+<p align="center">  
+  <a href="https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j">
+    <img alt="wasi" height="300" src="https://telegra.ph/file/c4221591d27bb38b9b966.jpg">
+    <h1 align="center">WASI-BUG-BOT</h1>
+  </a>
+</p>
+<p align="center">
+<a href="https://github.com/wasi-ser"><img title="Author" src="https://img.shields.io/badge/Itxxwasi-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/923192173398"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+
+   
+   
+   ### deployment video must watch at [click to watch viudeo](https://youtube/@wasitech1)
+### deployment video must watch at [click to watch viudeo](https://youtube/@wasitech1)
+### deployment video must watch at [click to watch viudeo](https://youtube/@wasitech1)
+### deployment video must watch at [click to watch viudeo](https://youtube/@wasitech1)
+### deployment video must watch at [click to watch viudeo](https://youtube/@wasitech1)
+### deployment video must watch at [click to watch viudeo](https://youtube/@wasitech1)
+### deployment video must watch at [click to watch viudeo](https://youtube/@wasitech1)
+### deployment video must watch at [click to watch viudeo](https://youtube/@wasitech1)
+### deployment video must watch at [click to watch viudeo](https://youtube/@wasitech1)
+### deployment video must watch at [click to watch viudeo](https://youtube/@wasitech1)
+### deployment video must watch at [click to watch viudeo](https://youtube/@wasitech1)
+
+ MR WASI BUG BOT
 ### this code copy from dj xeon  all credits for him
 
 ```
