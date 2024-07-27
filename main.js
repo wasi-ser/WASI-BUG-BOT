@@ -1,3 +1,7 @@
+/*
+MR WASI TECH 
+*/
+
 require('./settings')
 const pino = require('pino')
 const { Boom } = require('@hapi/boom')
