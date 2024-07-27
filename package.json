@@ -1,5 +1,5 @@
 {
-    "name": "XBug-Bot",
+    "name": "WBug-Bot",
     "version": "6.0.0",
     "description": "WhatsApp War Bot Using Nodejs",
     "main": "index.js",
@@ -14,7 +14,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "DGXeon",
+    "author": "wasi",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.7.5",
