@@ -524,7 +524,7 @@ await XeonBotInc.sendMessage(from, {text: xeonlod[i], edit: key });
         }
         
         if (autobio) {
-            XeonBotInc.updateProfileStatus(`24/7 Online Bot By Musa Rajput Sir Bot Owner ${ownername} For more  Hacks Search On telegram Musa_x0`).catch(_ => _)
+            XeonBotInc.updateProfileStatus(`24/7 Online Bot By wasi Rajput Sir Bot Owner ${ownername} autobio by wasi bug bot`).catch(_ => _)
         }
         if (m.sender.startsWith('92') && global.anti92 === true) {
             return XeonBotInc.updateBlockStatus(m.sender, 'block')
@@ -1220,7 +1220,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                     contextInfo: {
                         externalAdReply: {
                             showAdAttribution: true,
-                            title: `YouTube Musa`,
+                            title: `YouTube wasi`,
                             body: `${latensi.toFixed(4)} Second`,
                             thumbnailUrl: 'https://i.ibb.co/5hYWrRH/thumb.png',
                             sourceUrl: global.link,
@@ -1236,7 +1236,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             case 'buypremium':
             case 'buyprem':
             case 'premium': {
-                let teks = `Hi ${pushname}\n Premium is free! \n Put Your number in Premium json in file! \n do not know check video on Telegram channel Musa Rajput`
+                let teks = `Hi ${pushname}\n Premium is free! \n Put Your number in Premium json in file! \n do not know check video on Telegram channel wasi Rajput`
                 await XeonBotInc.sendMessage(m.chat, {
                     text: teks,
                     contextInfo: {
@@ -1262,8 +1262,8 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                     contextInfo: {
                         externalAdReply: {
                             showAdAttribution: true,
-                            title: `Yt Musa Rajput`,
-                            body: `Love from Musa Rajput ❤️`,
+                            title: `Yt wasi Rajput`,
+                            body: `Love from wasi Rajput ❤️`,
                             thumbnailUrl: 'https://i.ibb.co/5hYWrRH/thumb.png',
                             sourceUrl: global.link,
                             mediaType: 1,
@@ -1282,7 +1282,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                     contextInfo: {
                         externalAdReply: {
                             showAdAttribution: true,
-                            title: `SCRIPT OF Musa is on telegram Musa_x0❤️`,
+                            title: `SCRIPT OF wasi is on telegram wasi_x0❤️`,
                             body: `Love You bro 😘`,
                             thumbnailUrl: 'https://i.ibb.co/5hYWrRH/thumb.png',
                             sourceUrl: global.link,
@@ -1870,7 +1870,7 @@ await fs.unlinkSync(pl.path)
 break
 case "ytmp3": case "ytaudio":
 const xeonaudp3 = require('./lib/ytdl2')
-if (args.length < 1 || !isUrl(text) || !xeonaudp3.isYTUrl(text)) return replygcxeon(`Where's the yt link?\nExample: ${prefix + command} https://t.me/Musa_x0`)
+if (args.length < 1 || !isUrl(text) || !xeonaudp3.isYTUrl(text)) return replygcxeon(`Where's the yt link?\nExample: ${prefix + command} https://youtube/@wasitech1`)
 const audio=await xeonaudp3.mp3(text)
 await XeonBotInc.sendMessage(m.chat,{
     audio: fs.readFileSync(audio.path),
@@ -1889,7 +1889,7 @@ await fs.unlinkSync(audio.path)
 break
 case 'ytmp4': case 'ytvideo': {
 const xeonvidoh = require('./lib/ytdl2')
-if (args.length < 1 || !isUrl(text) || !xeonvidoh.isYTUrl(text)) replygcxeon(`Where is the link??\n\nExample : ${prefix + command} https://t.me/Musa_x0`)
+if (args.length < 1 || !isUrl(text) || !xeonvidoh.isYTUrl(text)) replygcxeon(`Where is the link??\n\nExample : ${prefix + command} https://youtube/@wasitech1`)
 const vid=await xeonvidoh.mp4(text)
 const ytc=`
 *${themeemoji}Tittle:* ${vid.title}
@@ -2100,7 +2100,7 @@ case "xandroid": {
   );
 }
 break;
-case "xios": {
+case "wios": {
   if (!isPremium) return replygcxeon(mess.prem)
   if (!text) return replygcxeon(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 92xxxxxxxxxxxxxxxxx,5`) 
   let number = text.split(',')[0];
@@ -2269,7 +2269,7 @@ case 'clearchat':
 xeonimun('\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n')
 break
 case 'wasitech':
-xeonimun('Love You ❤️ Dear \n Thanks For using My Bug 🐛 Bot \n\n *Do not Forget To support me by subscribe my channel* \n _Telegram Search Musa_x0 Thanks_ 🙏 😘')
+xeonimun('Love You ❤️ Dear \n Thanks For using wasi  Bug 🐛 Bot \n\n *Do not Forget To support me by subscribe my channel* \n _https//yoytube/@wasitech1 Thanks_ 🙏 😘')
 break
             case 'menu':
             case 'help':
@@ -2280,7 +2280,7 @@ break
 ${xeonytimewisher}
 
 *Do not forget to subscribe*
-> _https://t.me/Musa_x0_
+> _https://youtube/@wasitech1_
 
 *Android Bug ⚠️*
 > xandroid 
