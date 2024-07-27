@@ -1,33 +1,25 @@
-//base by Musa Rajput
-//re-upload? recode? copy code? give credit ya :)
-//YouTube: none
-//Instagram: ....
-//Telegram: t.me/Musa_x0
-//GitHub: ......
-//WhatsApp: +923347748038
-//want more free bot join my tg chsnnal
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "923347748038"
-global.ownername = "🐛 Musa Rajput"
+global.ownernomer = "923192173398"
+global.ownername = "🐛 MR WASI "
 global.ytname = "YT: Dont have"
 global.socialm = "GitHub: private"
 global.location = "Pakistan, Lahore"
 
 global.ownernumber = '923347748038'  //creator number
-global.ownername = 'Musa Rajput' //owner name
-global.botname = 'Musa  ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownername = ' MR WASI ' //owner name
+global.botname = 'WASI TECH BUG BOT ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'Musa_Rajput\n\nContact: +923347748038'
+global.author = 'WASI'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "Musa Bot Inc."
+global.wm = "WASI."
 
 //theme link
 global.link = 'https://whatsapp.com'
@@ -70,7 +62,7 @@ global.mess = {
     error: 'Error!',
 }
 
-global.thumb = fs.readFileSync('./XeonMedia/thumb.jpg')
+global.thumb = fs.readFileSync('./Wasimedia/thumb.jpg')
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
