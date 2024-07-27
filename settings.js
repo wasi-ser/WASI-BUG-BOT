@@ -19,7 +19,7 @@ global.author = 'WASI'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "WASI."
+global.wm = "WASI TECH"
 
 //theme link
 global.link = 'https://whatsapp.com'
