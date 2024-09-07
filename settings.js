@@ -3,8 +3,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "923192173398"
-global.ownername = "🐛 MR WASI "
+global.ownernomer = "233534260096"
+global.ownername = "🐛 MR LEADER "
 global.ytname = "YT: Dont have"
 global.socialm = "GitHub: private"
 global.location = "Pakistan, Lahore"
@@ -18,7 +18,7 @@ global.packname = 'Sticker By'
 global.author = 'WASI'
 
 //console view/theme
-global.themeemoji = '🪀'
+global.themeemoji = '🥱'
 global.wm = "WASI TECH"
 
 //theme link
@@ -55,7 +55,7 @@ global.mess = {
     prem: 'This feature can be used by premium user only',
     admin: 'This feature can be used by admin only',
     botAdmin: 'This feature can only be used when the bot is a group admin ',
-    owner: 'This feature can be used by owner only',
+    owner: 'This feature can be used by BEAST only',
     group: 'This feature is only for groups',
     private: 'This feature is only for private chats',
     wait: 'In process... ',    
